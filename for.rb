@@ -5,3 +5,4 @@ def using_for
 	for Wingardium Leviosa in checklist
 		puts "Wingardium Leviosa"
 end
+end
