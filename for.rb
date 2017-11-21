@@ -5,4 +5,4 @@ def using_for
 	for potion in checklist
 		puts "Wingardium Leviosa"
 	end
-end 
+end
